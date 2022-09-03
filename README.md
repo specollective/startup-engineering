@@ -25,5 +25,3 @@ This guide is a work in progress and should be considered incomplete.
 | :------------ | :------------ |
 | [How to Build a Startup Engineering Team - Blog Post](https://increment.com/teams/how-to-build-a-startup-engineering-team/) | Blog Post |
 | [Startup Engineering](https://startupengineering.co/) | Pod Cast |
-
-<style>table { width: 100% }</style>
