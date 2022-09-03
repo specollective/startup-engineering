@@ -11,4 +11,5 @@ This guide is a work in progress and should be considered incomplete.
 - [Startup Engineering](https://www.youtube.com/playlist?list=PL58C6Q25sEEFVyISrZc80RhYFpyMF_DYl) - Coursera Course (archived 2014)
 - [How to Build a Startup Engineering Team - Blog Post](https://increment.com/teams/how-to-build-a-startup-engineering-team/) - Blog Post
 - [Startup Engineering](https://startupengineering.co/) - Podcast
+- [A Startup Founding Team - Why, Who, How and Where](https://medium.com/app-partner-academy/a-startup-founding-team-why-who-how-and-where-13864a57b393) - Medium
 
